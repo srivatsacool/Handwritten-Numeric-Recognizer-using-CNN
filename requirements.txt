@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+# Usage: pip install -r requirements.txt
+streamlit 
+streamlit_drawable_canvas
+numpy
+Pillow
+tensorflow
+pyttsx3
+=======
+# Usage: pip install -r requirements.txt
+streamlit 
+streamlit_drawable_canvas
+numpy
+Pillow
+tensorflow
+pyttsx3
+>>>>>>> a719d8943fc88f7fff403305d6abff9436ad292c
