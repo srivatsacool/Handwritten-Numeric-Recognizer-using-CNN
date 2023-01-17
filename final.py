@@ -145,8 +145,7 @@ if button_pressed:
 st.markdown("""---""")
 st.subheader("Examples :- ")
 st.image("assests/example1.png")
-<<<<<<< HEAD
 st.image("assests/example2.png")
 =======
 st.image("assests/example2.png")
->>>>>>> a719d8943fc88f7fff403305d6abff9436ad292c
+
