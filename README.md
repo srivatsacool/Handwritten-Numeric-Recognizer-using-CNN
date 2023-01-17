@@ -2,7 +2,7 @@
 # **Handdrawn AlphaNumeric Recognizer using CNN**
 #### Made by :- Srivatsa Gorti
 
-**Aim** :- An end-to-end web app , for hand-drawn alphanumeric (Numbers) recognizer using CNN . The user themself can draw numbers on th canvas and the model would predict/recognizer which number it is with sound effects .An end-to-end web app , for hand-drawn alphanumeric (Numbers and Letters) recognizer using CNN . The user themself can draw letters or numbers on th canvas and the model would predict/recognizer which letter or number it is with sound effects .
+**Aim** :- An end-to-end web app , for hand-drawn alphanumeric (Numbers) recognizer using CNN . The user themself can draw numbers on th canvas and the model would predict/recognizer which number it is with sound effects .
 
 
 ## Demo :
@@ -61,6 +61,6 @@ To deploy this project run  :
 
 - Light/dark mode toggle
 - Live previews
-- Recognizes both Letters and Numbers
+- Recognizes only Numbers
 - Cross platform
 
