@@ -6,7 +6,7 @@
 
 
 ## Demo :
-Try Link - https://srivatsacool-handwritten-alphanumeric-recognizer-usi-app-bper2m.streamlit.app/ 
+Try Link - https://srivatsacool-handwritten-numeric-recognizer-using--final-dgcyqm.streamlit.app/
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76219802/212967124-f6e2954a-d3dc-4218-bc19-64e925d85630.png" />
