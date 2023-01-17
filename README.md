@@ -9,8 +9,9 @@
 Try Link - https://srivatsacool-handwritten-alphanumeric-recognizer-usi-app-bper2m.streamlit.app/ 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76219802/212941341-6e9784a0-7151-4edb-a09d-69b61a9491bb.png" />
+  <img src="https://user-images.githubusercontent.com/76219802/212967124-f6e2954a-d3dc-4218-bc19-64e925d85630.png" />
 </p>
+
 
 ## Requirements
 
