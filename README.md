@@ -1,5 +1,5 @@
 
-# **Handdrawn AlphaNumeric Recognizer using CNN**
+# **Handdrawn Numeric Recognizer using CNN**
 #### Made by :- Srivatsa Gorti
 
 **Aim** :- An end-to-end web app , for hand-drawn alphanumeric (Numbers) recognizer using CNN . The user themself can draw numbers on th canvas and the model would predict/recognizer which number it is with sound effects .
@@ -48,12 +48,12 @@ gtts-token
 - Clone the repository .  
 
 ```cmd
-   $ git clone https://github.com/srivatsacool/Handwritten_AlphaNumeric_Recognizer_using_CNN
+   $ git clone https://github.com/srivatsacool/Handwritten-Numeric-Recognizer-using-CNN
 
 To deploy this project run  :
 
 ```cmd
-   streamlit run '.\app.py'
+   streamlit run '.\final.py'
 ```
 
 
