@@ -146,6 +146,5 @@ st.markdown("""---""")
 st.subheader("Examples :- ")
 st.image("assests/example1.png")
 st.image("assests/example2.png")
-=======
 st.image("assests/example2.png")
 
